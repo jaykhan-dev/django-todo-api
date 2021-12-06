@@ -1,0 +1,4 @@
+/django-todo-api-env/
+*.pyc
+db.sqlite3
+/config/settings/dev.py
